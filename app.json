@@ -1,0 +1,12 @@
+{
+  "name": "v228",
+  "displayName": "v228",
+  "expo": {
+    "name": "v228",
+    "slug": "v228",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
